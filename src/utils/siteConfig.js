@@ -1,9 +1,9 @@
 module.exports = {
-    siteUrl: `https://torresmxblog.herokuapp.com`, // Site domain. Do not include a trailing slash!
+    siteUrl: `https://torresmx.dev/`, // Site domain. Do not include a trailing slash!
 
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-    siteTitleMeta: `TorresMx Blog`, // This allows an alternative site title for meta data for pages.
+    siteTitleMeta: `TorresMx Blog - Fernando Torres`, // This allows an alternative site title for meta data for pages.
     siteDescriptionMeta: `Mi sitio web o blogpost`, // This allows an alternative site description for meta data for pages.
 
     shareImageWidth: 1000, // Change to the width of your default share image
